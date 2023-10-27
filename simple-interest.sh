@@ -2,8 +2,8 @@
 # This script calculates simple interest given principal, annual rate of interest and time period in years.
 # Do not use this in production. Sample purpose only.
 
-# Author: Thineshraj Soosaiselvarajah
-# Addtional Authors:
+# Author: Upkar Lidder (IBM)
+# Addtional Authors: Thineshraj Soosaiselvarajah
 # Thineshraj
 
 # Input:
